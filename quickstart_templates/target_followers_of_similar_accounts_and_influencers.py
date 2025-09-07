@@ -16,8 +16,8 @@ from instapy import InstaPy
 from instapy import smart_run
 
 # login credentials
-insta_username = 'username'
-insta_password = 'password'
+insta_username = 'anshh.flexion'
+insta_password = 'gymrat'
 
 # restriction data
 dont_likes = ['#exactmatch', '[startswith', ']endswith', 'broadmatch']
